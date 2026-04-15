@@ -18,7 +18,7 @@
 
 ### Informe de trabajo final (Avance 1)
 
-**Nombre de la Startup:** Scripters
+**Nombre del Startup:** Scripters
 
 **Nombre del producto:** Regula
 
@@ -37,8 +37,16 @@
 
 **Mes y año:** Abril 2026
 
+---
 </div>
 
----
+<div class="page"></div>
 
 ### Registro de versiones del informe
+
+### Proyect Report Collaborations Insights
+
+## Tabla de contenidos
+
+- [1.1. Startup Profile] (#11-startup-profile)
+    - [1.1.1.  Descripción de la Startup] (#12-startup-description)
