@@ -28,7 +28,7 @@
 |--------------------------------------|------------|
 | Tello Palacios, Fabrizio Rafael      | U202113310 |
 | Ramos Cerdan, Elias Daniel           | U20201A277 |
-| Espinoza Lopez, Paul Alexandro Angel | U20241E321 |
+| Conde Huashuayo, Sebasthian Alex| U20241E356 |
 | Lopez Torres, Leonardo Gabriel       | U20241A649 |
 | Lopez Montalvo, Kevin Edu            | U20241D958 |
 
